@@ -1,0 +1,17 @@
+text	owner	division	year	previous text	previous year
+Jacksonville Jaguars	Morgan	South	2013	-	
+Baltimore Ravens	Jonathan	North	2013	-	
+Chicago Bears	Mark	North	2013	-	
+New York Giants	Justin	East	2013	-	
+San Francisco 49ers	Steven D	West	2013	-	
+Los Angeles Rams	Alex	West	2013	St Louis Rams	2013
+New Orleans Saints	Keaan	South	2013	-	
+Carolina Panthers	Chris J	North	2013	Cincinnati Bengals	2013
+Philadelphia Eagles	Kyle	East	2013	Miami Dolphins	2013
+Arizona Cardinals	Nick	West	2014	Cincinnati Bengals	2014
+New England Patriots	Jake	South	2015	-	
+New York Jets	Casey	East	2015	-	
+Kansas City Chiefs	Randal	West	2015	-	
+Buffalo Bills	David	South	2016	-	
+Washington Redskins	Chris JU	East	2016	-	
+Cincinnati Bengals	Joe	North	2017	-	
